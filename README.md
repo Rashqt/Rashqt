@@ -1,16 +1,17 @@
-## Hi there 👋
+## 💫 About Me
 
-<!--
-**Rashqt/Rashqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yo, ssup — I’m Rash <br>
 
-Here are some ideas to get you started:
+**role:** THE BEST  <br>
+**focus:** Machine Learning & "kool" stuff  <br>
+**status:** lowkey trying to impress Tulip  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Current State <br>
+
+- learning R (slowly but surely)<br>
+- working on random things... depends on the mood<br>
+- jack of all trades, master of... we’ll see<br>
+
+Hit me up https://www.instagram.com/rashqt.x/ <br>
