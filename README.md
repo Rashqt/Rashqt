@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-Yo, ssup — I’m Rash <br>
+Yo, ssup — Its Rash <br>
 
 **role:** THE BEST  <br>
 **focus:** Machine Learning & "kool" stuff  <br>
